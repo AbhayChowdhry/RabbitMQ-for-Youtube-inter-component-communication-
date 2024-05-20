@@ -13,3 +13,7 @@
 - The YouTube server consumes messages from Users and YouTubers and stores them as data, maintaining a list of YouTubers and their videos, and all users and their subscriptions.
 - It also processes subscription and unsubscription requests from users.
 - The server sends notifications to all subscribers of a YouTuber whenever they upload a new video.
+
+Following is a diagram of the following 
+
+![Flowchart diagram](https://github.com/AbhayChowdhry/RabbitMQ-for-Youtube-inter-component-communication-/blob/main/Diagram.png)
